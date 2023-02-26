@@ -1,5 +1,7 @@
 <h1>Python API Challenge with VacationPy</h1>
 
+![craiyon_222543_show_the_world_and_all_of_its_continents__a_globe_is_fine__show_various_weather_metri](https://user-images.githubusercontent.com/52866379/221390854-0d2de0de-9e9a-41f2-995e-9c186c80dafc.png)
+
 Python API Challenge
 This is a project that I completed as part of a data analysis bootcamp course. The goal of the project was to analyze weather data for a set of cities around the world, and to see how various weather metrics (temperature, humidity, cloudiness, and wind speed) were affected by the latitude of the city. Additionally, I also used the Geoapify API to retrieve hotel information for each city.
 
