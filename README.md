@@ -1,4 +1,4 @@
-<h1>Python API Challenge with VacationPy</h1>
+<h1>Python API Challenge</h1>
 
 ![craiyon_222543_show_the_world_and_all_of_its_continents__a_globe_is_fine__show_various_weather_metri](https://user-images.githubusercontent.com/52866379/221439576-286bf6ad-0a63-4bf3-969d-5b8f08635e10.png)
 
