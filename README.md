@@ -1,4 +1,4 @@
-# Python API Challenge - Analyzing Weather Data1
+# Python API Challenge - Analyzing Weather Data
 ![noaa-kcvlb727mn8-unsplash](https://github.com/CLizardi/python-api-challenge/assets/52866379/5adb32fd-8e9e-477c-b28c-d3091775f605)
 
 # Introduction
