@@ -1,6 +1,5 @@
 # Python API Challenge - Analyzing Weather Data
-![craiyon_222543_show_the_world_and_all_of_its_continents__a_globe_is_fine__show_various_weather_metri](https://user-images.githubusercontent.com/52866379/221439576-286bf6ad-0a63-4bf3-969d-5b8f08635e10.png)
-
+![noaa-kcvlb727mn8-unsplash](https://github.com/CLizardi/python-api-challenge/assets/52866379/5adb32fd-8e9e-477c-b28c-d3091775f605)
 
 # Introduction
 In this project, I analyzed weather data from over 500 cities around the world using the OpenWeatherMap API. The goal was to explore the relationship between a city's latitude and various weather metrics such as temperature, humidity, cloudiness, and wind speed. Additionally, I used the Google Places API to find nearby hotels for cities with the best weather conditions.
